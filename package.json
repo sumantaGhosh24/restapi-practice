@@ -1,7 +1,8 @@
 {
   "name": "restapi-practice",
   "version": "1.0.0",
-  "description": "",
+  "description": "restapi development practice",
+  "author": "sumanta ghosh",
   "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",
