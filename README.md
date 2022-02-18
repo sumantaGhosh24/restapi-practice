@@ -29,7 +29,7 @@ node, express, mongodb, typescript rest api with C.R.U.D, Filter, Pagination, So
 #### Create A Product
 
 ```http
-  POSt /api/products
+  POST /api/products
 ```
 
 | Parameter | Type     | Description                |
